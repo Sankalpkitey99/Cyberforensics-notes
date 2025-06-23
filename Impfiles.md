@@ -1,4 +1,4 @@
-# IMP FILES LOCATION
+# IMPORTANT  FILES LOCATION
 
 ### checking sudoers list
 -> /etc/sudoers
